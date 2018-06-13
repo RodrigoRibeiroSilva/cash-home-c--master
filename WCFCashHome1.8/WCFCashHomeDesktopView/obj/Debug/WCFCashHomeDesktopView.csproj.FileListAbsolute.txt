@@ -1,0 +1,166 @@
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Form1.resources
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\aluno\Desktop\WcfService1\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\robso\Pictures\WCFCashHome1.3\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroDespesas.resources
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+F:\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroDespesas.resources
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\aluno\Downloads\WCFCashHome1.6\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroConta.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroDespesas.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroRecebimento.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.GraficoRecebimento.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.AlterarUsuario.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCategoria.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroConta.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Relatorio.resources
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.AlterarUsuario.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCategoria.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroConta.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Relatorio.resources
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.AlterarUsuario.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCategoria.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroConta.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Relatorio.resources
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe.config
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.exe
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\bin\Debug\WCFCashHomeDesktopView.pdb
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csprojResolveAssemblyReference.cache
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.AlterarUsuario.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCategoria.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroCliente.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.CadastroConta.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Login.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.MeuEscritorio.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Properties.Resources.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.Relatorio.resources
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.csproj.GenerateResource.Cache
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.exe
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WCFCashHomeDesktopView\obj\Debug\WCFCashHomeDesktopView.pdb

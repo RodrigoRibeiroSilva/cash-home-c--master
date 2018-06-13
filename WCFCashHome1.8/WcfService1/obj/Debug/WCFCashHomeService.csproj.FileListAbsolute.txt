@@ -1,0 +1,78 @@
+C:\Users\aluno\Desktop\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\aluno\Desktop\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\aluno\Desktop\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\aluno\Desktop\WcfService1\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\aluno\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WcfService1\bin\WcfService1.dll.config
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WcfService1\bin\WcfService1.dll
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WcfService1\bin\WcfService1.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Rodrigo\Desktop\WCFCashHome1.2\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\aluno\Downloads\WCFCashHome1.2\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\WCFCashHome1.2\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\aluno\Downloads\WCFCashHome1.2\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\aluno\Downloads\WCFCashHome1.2\WcfService1\bin\WcfService1.dll.config
+C:\Users\aluno\Downloads\WCFCashHome1.2\WcfService1\bin\WcfService1.dll
+C:\Users\aluno\Downloads\WCFCashHome1.2\WcfService1\bin\WcfService1.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WcfService1\bin\WcfService1.dll.config
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WcfService1\bin\WcfService1.dll
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WcfService1\bin\WcfService1.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Rodrigo\Desktop\WCFCashHome1.3\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\robso\Pictures\WCFCashHome1.3\WcfService1\bin\WcfService1.dll.config
+C:\Users\robso\Pictures\WCFCashHome1.3\WcfService1\bin\WcfService1.dll
+C:\Users\robso\Pictures\WCFCashHome1.3\WcfService1\bin\WcfService1.pdb
+C:\Users\robso\Pictures\WCFCashHome1.3\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\robso\Pictures\WCFCashHome1.3\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\robso\Pictures\WCFCashHome1.3\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WcfService1\bin\WcfService1.dll.config
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WcfService1\bin\WcfService1.dll
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WcfService1\bin\WcfService1.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.4\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WcfService1\bin\WcfService1.dll.config
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WcfService1\bin\WcfService1.dll
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WcfService1\bin\WcfService1.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.5\WcfService1\obj\Debug\WcfService1.pdb
+F:\WCFCashHome1.6\WcfService1\bin\WcfService1.dll.config
+F:\WCFCashHome1.6\WcfService1\bin\WcfService1.dll
+F:\WCFCashHome1.6\WcfService1\bin\WcfService1.pdb
+F:\WCFCashHome1.6\WcfService1\obj\Debug\WcfService1.dll
+F:\WCFCashHome1.6\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\aluno\Downloads\WCFCashHome1.6\WcfService1\bin\WcfService1.dll.config
+C:\Users\aluno\Downloads\WCFCashHome1.6\WcfService1\bin\WcfService1.dll
+C:\Users\aluno\Downloads\WCFCashHome1.6\WcfService1\bin\WcfService1.pdb
+C:\Users\aluno\Downloads\WCFCashHome1.6\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\aluno\Downloads\WCFCashHome1.6\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WcfService1\bin\WcfService1.dll.config
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WcfService1\bin\WcfService1.dll
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WcfService1\bin\WcfService1.pdb
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Acesso01\Documents\Projeto\WCFCashHome1.7\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WcfService1\bin\WcfService1.dll.config
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WcfService1\bin\WcfService1.dll
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WcfService1\bin\WcfService1.pdb
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Rodrigo\Desktop\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.dll.config
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.dll
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.pdb
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Gabriel Soares\Documents\Visual Studio 2015\Projects\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.pdb
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.dll.config
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.dll
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.pdb
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.dll
+D:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.pdb
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.dll.config
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.dll
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\bin\WcfService1.pdb
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WCFCashHomeService.csprojResolveAssemblyReference.cache
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.dll
+F:\Projeto Cash Home 2.0\WCFCashHome1.8\WcfService1\obj\Debug\WcfService1.pdb

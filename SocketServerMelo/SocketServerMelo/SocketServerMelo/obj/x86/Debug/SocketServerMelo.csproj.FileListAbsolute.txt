@@ -1,0 +1,27 @@
+C:\Users\Professor\Desktop\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.Properties.Resources.resources
+C:\Users\Professor\Desktop\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.ServerApp.resources
+C:\Users\Professor\Desktop\SocketServerMelo\SocketServerMelo\bin\Debug\SocketServerMelo.exe
+C:\Users\Professor\Desktop\SocketServerMelo\SocketServerMelo\bin\Debug\SocketServerMelo.pdb
+C:\Users\Professor\Desktop\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.exe
+C:\Users\Professor\Desktop\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.pdb
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.exe
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.pdb
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\bin\Debug\SocketServerMelo.exe
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\bin\Debug\SocketServerMelo.pdb
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.Properties.Resources.resources
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.ServerApp.resources
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.exe
+F:\aulas_2012_2\c#\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.pdb
+C:\Users\professor\Desktop\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.csproj.GenerateResource.Cache
+C:\Users\professor\Desktop\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.exe
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.pdb
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\bin\Debug\SocketServerMelo.exe
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\bin\Debug\SocketServerMelo.pdb
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.Properties.Resources.resources
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.ServerApp.resources
+C:\Users\Gabriel Soares\Documents\Arquivos\SocketServerMelo\SocketServerMelo\obj\x86\Debug\SocketServerMelo.csproj.GenerateResource.Cache
